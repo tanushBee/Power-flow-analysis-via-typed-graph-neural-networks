@@ -7,4 +7,6 @@ When publishing results based on this data/code, please cite: Tania B Lopez-Garc
 Disclaimer: This code is distributed without any warranty, even without the implied warranty of merchantability or fitness for a particular purpose. 
 I am currently modifying and refactoring this repo, so there are many things that won't work perfectly. <br />
 
-This code requires the following:
+This repo provides some code for:
+* Building and training a typed graph neural netework based power flow solver.
+* Reloading a previous model and testing it.
