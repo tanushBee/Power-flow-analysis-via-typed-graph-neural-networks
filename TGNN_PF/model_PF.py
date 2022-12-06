@@ -8,7 +8,7 @@ import tensorflow as tf
 import numpy as np
 import pandas as pd
 
-import tgnv5_pf
+import tgnv5_PF
 from FuncDeltas import func_deltas
 from misc import scatter_nd_add_diff, v_check_control, s_check_control
 from Get_Data import DataImporter
