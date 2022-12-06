@@ -13,4 +13,4 @@ This repo provides some code for:
 * Building and training a typed graph neural netework based power flow solver.
 * Reloading a previous model and testing it.
 
-*If you have any questions or observations, contact me at 782726@unizar.es*
+*If you have any questions or observations, you can contact me at 782726@unizar.es*
