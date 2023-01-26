@@ -10,7 +10,7 @@ Disclaimer: This code is distributed without any warranty, even without the impl
 I am currently modifying and refactoring this repo, so there are many things that won't work perfectly. <br />
 
 This repo provides some code for:
-* Building and training a typed graph neural netework based power flow solver.
+* Building and training a typed graph neural network based power flow solver.
 * Reloading a previous model and testing it.
 
 *If you have any questions or observations, you can contact me at 782726@unizar.es*
